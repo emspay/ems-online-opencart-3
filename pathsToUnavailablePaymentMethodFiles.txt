@@ -4,6 +4,7 @@ upload/admin/controller/extension/payment/ginger_swish.php
 upload/admin/controller/extension/payment/ginger_mobilepay.php
 upload/admin/controller/extension/payment/ginger_giropay.php
 upload/admin/controller/extension/payment/ginger_afterpay.php
+upload/admin/controller/extension/payment/ginger_viacash.php
 upload/admin/view/image/payment/ginger_tikkiepaymentrequest.png
 upload/admin/view/image/payment/ginger_wechat.png
 upload/admin/view/image/payment/ginger_swish.png
